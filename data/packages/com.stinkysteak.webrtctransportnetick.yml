@@ -1,0 +1,16 @@
+name: com.stinkysteak.webrtctransportnetick
+displayName: WebRTC Transport for Netick
+description: Allow developer to use WebRTC inside Netick
+repoUrl: https://github.com/StinkySteak/NetickWebRTCTransport
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: ''
+topics:
+  - network
+hunter: StinkySteak
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: master:README.md
+createdAt: 1752237836342
